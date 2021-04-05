@@ -1,4 +1,4 @@
-<img src="Images/Power BI Header.jpg" height="200" width="950">
+<img src="Images/Power BI Header.jpg" height="200" width="1000">
 
 ## Sales Analysis Report
 
